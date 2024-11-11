@@ -1,0 +1,1 @@
+console.log("This is beggining of Javascript. console used to print any thing in console.");
